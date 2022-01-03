@@ -1,4 +1,4 @@
-# Hello-World
-
-# Por: Vinicius Mari Marrafon
+# Nome: Vinícius Mari Marrafon
 # Assinatura: ViMM
+
+--Atualmente cursando engenharia de computação--
